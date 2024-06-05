@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    
+}
+
+
+div{
+    height:100px;
+    width:500px;
+    border:1px solid black;
+    margin:auto;
+    font-size: x-large;
+    color: rgb(238, 233, 227);
+}
+
+.box {
+    height :100px;
+    width :100px;
+    background-color: pink;
+    border :1px solid black;
+}
